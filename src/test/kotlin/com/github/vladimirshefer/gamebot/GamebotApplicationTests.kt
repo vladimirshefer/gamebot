@@ -1,4 +1,4 @@
-package com.hithub.vladimirshefer.gamebot
+package com.github.vladimirshefer.gamebot
 
 import org.junit.Test
 import org.junit.runner.RunWith
